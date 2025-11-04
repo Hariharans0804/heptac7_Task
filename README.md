@@ -95,3 +95,21 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+<!-- ======================================================= -->
+ERROR
+======
+
+What can be done for Recruitment Task
+<!-- ====================================== -->
+You can tell the recruiter:
+“My CRUD logic is working fine in React Native.
+But the crudcrud.com site is not connecting to HTTPS in my emulator.
+The same API works in Postman/browser.
+So CRUD functions are logically implemented — it’s just a network issue.”
+
+
+
+Add a comment / note (or a small alert) in the app:
+
+“API URL from assignment (crudcrud.com) is used. On some Android emulators this host is unreachable and fetch throws Network request failed. The same endpoint works from Postman/browser. CRUD functions are implemented, but device cannot reach the remote host.”

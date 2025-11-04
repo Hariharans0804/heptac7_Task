@@ -97,8 +97,13 @@ To learn more about React Native, take a look at the following resources:
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 
 <!-- ======================================================= -->
+
+run command
+<!-- =========== -->
+npx react-native run-android
+
 ERROR
-======
+<!-- ====== -->
 
 What can be done for Recruitment Task
 <!-- ====================================== -->

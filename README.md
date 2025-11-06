@@ -101,6 +101,7 @@ To learn more about React Native, take a look at the following resources:
 run command
 <!-- =========== -->
 npx react-native run-android
+npx react-native run-android --active-arch-only
 
 ERROR
 <!-- ====== -->
